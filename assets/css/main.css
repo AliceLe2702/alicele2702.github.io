@@ -22,6 +22,9 @@
 		display: block;
 	}
 
+	header h1{
+		color: yellow;
+	}
 	body {
 		line-height: 1;
 	}
